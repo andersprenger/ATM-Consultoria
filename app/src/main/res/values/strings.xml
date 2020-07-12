@@ -16,4 +16,16 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="principal_logo_description">Logotipo</string>
+    <string name="clientes_title">Clientes</string>
+    <string name="clientes_description">Em mais de 15 anos de existência, a ATM acumula experiência em serviços de consultoria para empresas nacionais e multinacionais de diversos portes, tendo atendido mais de 1000 empresas desde sua abertura.</string>
+    <string name="cliente_1">Cielo</string>
+    <string name="cliente_2">Braskem</string>
+    <string name="cliente_3">Gerdau</string>
+    <string name="cliente_4">Embraer</string>
+    <string name="cliente_5">Natura</string>
+    <string name="cliente_6">B2W Digital</string>
+    <string name="servicos_title1">Sistema de gestão de qualidade</string>
+    <string name="servicos_title2">Indicadores de desempenho</string>
+    <string name="servicos_description1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget eleifend diam. Maecenas eget lorem eget felis feugiat semper vel vitae justo. Nam vitae risus massa. Aenean gravida condimentum mauris, sit amet fermentum odio egestas eu. Praesent molestie cursus orci, id sagittis purus ullamcorper non. Cras vel libero faucibus, molestie erat id, volutpat ipsum. Aliquam a quam in libero aliquam rutrum pellentesque vel ligula. Donec ac justo nec lectus consectetur finibus. Pellentesque at orci lacinia, malesuada urna eu, tempor metus.</string>
+    <string name="servicos_description2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum ante in fermentum pharetra. Vestibulum vel risus efficitur, fermentum leo eu, tempus leo. Suspendisse potenti. Mauris nunc ex, placerat at mauris vel, pellentesque varius mauris. Suspendisse quis nisi vel lorem efficitur maximus eleifend sit amet odio. Morbi eleifend ante nec eros molestie iaculis. Vivamus nec euismod lorem.</string>
 </resources>
