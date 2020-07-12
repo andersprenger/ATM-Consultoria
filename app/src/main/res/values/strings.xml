@@ -13,4 +13,7 @@
     <string name="menu_clientes">Clientes</string>
     <string name="menu_principal">Principal</string>
     <string name="menu_servicos">Serviços</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="principal_logo_description">Logotipo</string>
 </resources>
